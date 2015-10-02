@@ -1,0 +1,5 @@
+*.mp3
+*.mov
+*Logs/
+tmp/
+*Auto-Save/
