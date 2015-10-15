@@ -5,3 +5,4 @@ palpitate.wav filter=lfs diff=lfs merge=lfs -text
 Dot.m4a filter=lfs diff=lfs merge=lfs -text
 Pencil[[:space:]]Moving.m4a filter=lfs diff=lfs merge=lfs -text
 Dawning.mp3 filter=lfs diff=lfs merge=lfs -text
+rubyconf-shenzhen.sketch filter=lfs diff=lfs merge=lfs -text
